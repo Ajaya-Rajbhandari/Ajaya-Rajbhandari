@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on ... Programing
 - 📫 How to reach me ... ajaya.shrestha.521@gmail.com
 👨‍💻💻🌐🚀🌟🎉🤖💡📈👨‍🔬👨‍🎨👨‍🏫
-JavaScript
-Node.js
-React.js
-Web development
-Front-end development
+-JavaScript
+-Node.js
+-React.js
+-Web development
+-Front-end development
 
 
 <!---

@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on - Building responsive web applications with **React** and **Vue.js**.<br>👯 I’m looking to collaborate - with other developers.<br>🤝 I’m looking for help with -- Advanced topics in JavaScript, such as asynchronous programming and performance optimization.<br>- Understanding best practices for state management in modern frameworks like Redux .<br>🌱 I’m currently learning- Mastering TypeScript to enhance my JavaScript skills.<br>- Exploring Next.js for server-side rendering and static site generation.<br>💬 Ask me about - My experiences with various front-end technologies.<br>- Tips on building accessible and performant web applications.<br>⚡ Fun fact - I love solving coding challenges on platforms like LeetCode and Codewars in my spare time, and I enjoy playing Games, Watch Movies and tech news.!
+# 👋 About Me:
+
+🚀 I'm currently working on the **SNS Rooster App** – a mobile-first attendance management system built with **Flutter**, **Node.js**, and **MongoDB**, designed to help small businesses manage their workforce effectively.
+
+🧩 I’m also experienced in building responsive web applications using **React**, **Vue.js**, and **Next.js**. I focus on clean UI, performance optimization, and accessible design.
+
+🤝 I'm open to collaboration and team projects. Always eager to connect with other developers to learn and build impactful tools.
+
+🧠 Currently leveling up my skills in:
+- **TypeScript** for scalable and maintainable codebases
+- **Redux** and modern state management practices
+- API integration and authentication flows
+- Full-stack development with MERN stack
+
+💬 Ask me about:
+- Front-end frameworks and component design
+- Cross-platform mobile development using Flutter
+- Real-time features and backend integration
+- Debugging and performance tuning in production apps
 
 
 ## 🌐 Socials:
